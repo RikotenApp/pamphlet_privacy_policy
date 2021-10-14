@@ -1,0 +1,26 @@
+#main-content {
+  padding: 10px 20px;
+  max-width: 90%;
+  margin: auto;
+}
+
+#content-title {
+  font-size: 30px;
+}
+
+li {
+  padding-bottom: 15px;
+}
+
+.section-title {
+  font-size: 20px;
+  margin-top: 50px;
+  border-bottom: 1px solid black;
+}
+
+small {
+  margin-top: 50px;
+  display: block;
+  text-align: center;
+}
+/*# sourceMappingURL=privacy_policy.css.map */
